@@ -53,7 +53,7 @@ Variable “member casual” and “rideable_type” is confusing, change it int
 ### Business logic: 
 Will remove columns start_lat, start_lng, eng_lat, eng_lng since they are not used in analysis.
 
-Finally, i used MSSM to extract the final dataset for analyzing, the SQL script can be found here
+Finally, i used MSSM to extract the final dataset for analyzing, the SQL script can be found [here](https://github.com/FelixBui/Google-Data-analytics-capstone-project/blob/main/SQLQuery7.sql)
 ## ANALYZE
 I use analysis tools, mainly Jupyter Notebook and Python. Detailed analysis can be viewed here
 ## ACT
